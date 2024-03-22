@@ -1,0 +1,73 @@
+
+<group>
+amp_veltrack=40
+offset=50
+offset_random=50
+offset_cc131=5500
+ampeg_attack=0.06
+ampeg_decay=18
+ampeg_sustain=55
+ampeg_release=0.13
+loop_mode=loop_continuous
+
+<region> sample=Button Accordion HN B3.flac pitch_keycenter=47 lokey=0 hikey=49 tune=-34
+ loop_start=36018 loop_end=62654
+<region> sample=Button Accordion HN D4.flac pitch_keycenter=50 lokey=50 hikey=53 tune=-38
+ loop_start=49751 loop_end=69153
+<region> sample=Button Accordion HN F#4.flac pitch_keycenter=54 lokey=54 hikey=54 tune=-23
+ loop_start=46413 loop_end=79367
+<region> sample=Button Accordion HN G4.flac pitch_keycenter=55 lokey=55 hikey=56 tune=-30
+ loop_start=66543 loop_end=93290
+<region> sample=Button Accordion HN A4.flac pitch_keycenter=57 lokey=57 hikey=58 tune=-32
+ loop_start=60366 loop_end=74543
+<region> sample=Button Accordion HN B4.flac pitch_keycenter=59 lokey=59 hikey=59 tune=-19
+ loop_start=76136 loop_end=91082
+<region> sample=Button Accordion HN C5.flac pitch_keycenter=60 lokey=60 hikey=61 tune=-28
+ loop_start=72926 loop_end=86200
+<region> sample=Button Accordion HN D5.flac pitch_keycenter=62 lokey=62 hikey=63 tune=-26
+ loop_start=73008 loop_end=86264
+<region> sample=Button Accordion HN E5.flac pitch_keycenter=64 lokey=64 hikey=65 tune=-30
+ loop_start=65908 loop_end=83784
+<region> sample=Button Accordion HN F#5.flac pitch_keycenter=66 lokey=66 hikey=66 tune=-26
+ loop_start=85013 loop_end=94643
+<region> sample=Button Accordion HN G5.flac pitch_keycenter=67 lokey=67 hikey=68 tune=-29
+ loop_start=78733 loop_end=97217
+<region> sample=Button Accordion HN A5.flac pitch_keycenter=69 lokey=69 hikey=70 tune=-20
+ loop_start=85262 loop_end=93453
+<region> sample=Button Accordion HN B5.flac pitch_keycenter=71 lokey=71 hikey=71 tune=-7
+ loop_start=75333 loop_end=82273
+<region> sample=Button Accordion HN C6.flac pitch_keycenter=72 lokey=72 hikey=73 tune=-26
+ loop_start=101921 loop_end=108876
+<region> sample=Button Accordion HN D6.flac pitch_keycenter=74 lokey=74 hikey=75 tune=-16
+ loop_start=50588 loop_end=59478
+<region> sample=Button Accordion HN E6.flac pitch_keycenter=76 lokey=76 hikey=78 tune=-22
+ loop_start=86641 loop_end=93093
+<region> sample=Button Accordion HN G6.flac pitch_keycenter=79 lokey=79 hikey=127 tune=-10
+ loop_start=58658 loop_end=63555
+
+<group>
+amp_veltrack=35
+volume=-8
+amp_random=-6
+offset_random=10
+trigger=release
+ampeg_attack=0.03
+
+<region> sample=rel/Button Accordion HN B3_rel.flac pitch_keycenter=47 lokey=0 hikey=49 tune=-34
+<region> sample=rel/Button Accordion HN D4_rel.flac pitch_keycenter=50 lokey=50 hikey=53 tune=-38 offset=2700
+<region> sample=rel/Button Accordion HN F#4_rel.flac pitch_keycenter=54 lokey=54 hikey=54 tune=-23 offset=1000
+<region> sample=rel/Button Accordion HN G4_rel.flac pitch_keycenter=55 lokey=55 hikey=56 tune=-30 offset=7000
+<region> sample=rel/Button Accordion HN A4_rel.flac pitch_keycenter=57 lokey=57 hikey=58 tune=-32 offset=2500
+<region> sample=rel/Button Accordion HN B4_rel.flac pitch_keycenter=59 lokey=59 hikey=59 tune=-19 offset=1600
+<region> sample=rel/Button Accordion HN C5_rel.flac pitch_keycenter=60 lokey=60 hikey=61 tune=-28 offset=9000
+<region> sample=rel/Button Accordion HN D5_rel.flac pitch_keycenter=62 lokey=62 hikey=63 tune=-26 offset=3000
+<region> sample=rel/Button Accordion HN E5_rel.flac pitch_keycenter=64 lokey=64 hikey=65 tune=-30 offset=1000
+<region> sample=rel/Button Accordion HN F#5_rel.flac pitch_keycenter=66 lokey=66 hikey=66 tune=-26 offset=1500
+<region> sample=rel/Button Accordion HN G5_rel.flac pitch_keycenter=67 lokey=67 hikey=68 tune=-29 offset=500
+<region> sample=rel/Button Accordion HN A5_rel.flac pitch_keycenter=69 lokey=69 hikey=70 tune=-20 offset=3400
+<region> sample=rel/Button Accordion HN B5_rel.flac pitch_keycenter=71 lokey=71 hikey=71 tune=-7 offset=4000
+<region> sample=rel/Button Accordion HN C6_rel.flac pitch_keycenter=72 lokey=72 hikey=73 tune=66 offset=5000
+<region> sample=rel/Button Accordion HN D6_rel.flac pitch_keycenter=74 lokey=74 hikey=75 tune=-16 offset=1000
+<region> sample=rel/Button Accordion HN E6_rel.flac pitch_keycenter=76 lokey=76 hikey=78 tune=-22 offset=2000
+<region> sample=rel/Button Accordion HN G6_rel.flac pitch_keycenter=79 lokey=79 hikey=127 tune=-10 offset=500
+
